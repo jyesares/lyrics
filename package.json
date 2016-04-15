@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jyesares/lyrics/issues"
   },
-  "homepage": "https://github.com/jyesares/lyrics#readme"
+  "homepage": "https://github.com/jyesares/lyrics#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
